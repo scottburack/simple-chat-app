@@ -1,0 +1,24 @@
+{
+  "name": "simple-chat-app",
+  "version": "1.0.0",
+  "description": "chat app",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/scottburack/simple-chat-app.git"
+  },
+  "success_url": "/",
+  "keywords": [
+    "node",
+    "express",
+    "socket.io",
+    "realtime",
+    "websocket"
+  ],
+  "author": "Scott Burack",
+  "license": "ISC",
+  "env": {
+    "BUILDPACK_URL": "https://github.com/heroku/heroku-buildpack-nodejs"
+  }
+}
